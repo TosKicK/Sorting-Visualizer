@@ -7,4 +7,5 @@ It beautifully demonstrates how different types of sorting techniques are implem
 # Prerequisites
 
 Fairly good amount of knowledge in javascripting
+
 Basic HTML skills
